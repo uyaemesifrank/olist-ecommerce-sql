@@ -121,4 +121,4 @@ olist-ecommerce-sql/
 
 ## Author
 
-Frank Uyaemesi, Data Analyst, Accra, Ghana
+Frank Uyaemesi, Data Analyst
